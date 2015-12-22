@@ -1,9 +1,10 @@
 {
+    "manifest_version": 2,
     "background" : { "scripts": ["background.js"] },
     "description": "lmgtfy copy to clipboard your lmgtfy link.",
     "icons": {
-        "16": "icon16.png",
-        "48": "icon48.png"
+        "16": "google-16.png",
+        "64": "google-64.png"
     },
     "minimum_chrome_version": "6",
     "name": "Let me google that for you",
