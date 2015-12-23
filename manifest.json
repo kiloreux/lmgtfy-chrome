@@ -4,6 +4,8 @@
     "description": "lmgtfy copy to clipboard your lmgtfy link.",
     "icons": {
         "16": "google-16.png",
+        "24": "google-24.png",
+        "32": "google-32.png",
         "64": "google-64.png"
     },
     "minimum_chrome_version": "6",
